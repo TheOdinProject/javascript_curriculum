@@ -1,3 +1,7 @@
+# THIS REPO IS ARCHIVED
+
+Please submit your solutions to the TheOdinProject/curriculum repo
+
 # The Odin Project - Javascript Curriculum
 
 ## Mission statement
